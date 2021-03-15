@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">News</string>
+
+    <string name="try_again_text_btn">Try again</string>
+    <string name="internal_error">An internal error occurred. please try again later</string>
+    <string name="label_no_internet">The connection appears a little…shoddy a the moment.</string>
+
+    <string name="error_text_label">Wops something happened</string>
+
+</resources>
