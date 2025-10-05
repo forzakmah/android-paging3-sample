@@ -35,6 +35,7 @@ fun Fragment.toast(msg: String) {
 
 fun View.enable(enable: Boolean) {
     alpha = if (enable) 1f else 0.4f
+    isEnabled = enable
     isClickable = enable
 }
 
